@@ -20,7 +20,7 @@ Encryption
       *  e-mail encryption, SSH authentication, document signing, secure web browsing, cryptocurrencies, virtual private networks (VPNs), and file encryption use asymmetric key-pairs
 
 Port Security  
-  *  on Cisco devices, refers to configuration of a switchport to allow limited access to certain Media Access Control (MAC) addresses
+  *  on Cisco devices, refers to configuration of a switchport to allow limited access to certain Media Access Control (MAC) addresses  
     *  configurations include number of MAC addresses that can communicate through a particular switchport  
     *  administrative options such as shutdown and alerting the administrator if switchport security policy is violated
 
