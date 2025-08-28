@@ -30,3 +30,5 @@ Port Security
 <p align=center>
   <img src="https://github.com/Fehral/networkprojectv5/blob/main/networkprojectv5topology.png?raw=true">
 </p>
+
+###### Configuration files for each device are uploaded within the repository.
