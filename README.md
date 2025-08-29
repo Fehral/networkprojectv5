@@ -28,7 +28,7 @@ Port Security
   <ins>Banking Network Topology</ins>
 </p>
 <p align=center>
-  Updated topology in progress.
+  <img src="https://github.com/Fehral/networkprojectv5/blob/main/networkprojectv5topology.png?raw=true">
 </p>
 
 ###### Configuration files for each device will be uploaded within the repository.
