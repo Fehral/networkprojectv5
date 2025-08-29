@@ -31,4 +31,9 @@ Port Security
   <img src="https://github.com/Fehral/networkprojectv5/blob/main/networkprojectv5topology.png?raw=true">
 </p>
 
+<p align=center>
+  <ins>Device Address Mapping</ins>
+<p align=center>
+  <img src=https://github.com/Fehral/networkprojectv5/blob/main/routeraddresstablev5.png?raw=true">
+</p>
 ###### Configuration files for each device will be uploaded within the repository.
