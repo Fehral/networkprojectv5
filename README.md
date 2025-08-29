@@ -32,7 +32,17 @@ Port Security
 </p>
 
 <p align=center>
+  <ins>Router Addressing Table</ins>
+</p>
+<p align=center>
   <img src="https://github.com/Fehral/networkprojectv5/blob/main/routeraddresstablev5.png?raw=true">
 </p>
+
+<p align=center>
+  <ins>Layer 3 Switch Addressing Table</ins>
+</p>
+
+<p align=center>
+  <ins>Switch Addressing Table</ins>
 
 ###### Configuration files for each device will be uploaded within the repository.
